@@ -1,5 +1,3 @@
-arch:
-  - ppc64le
 language: java
 jdk:
   - oraclejdk8
